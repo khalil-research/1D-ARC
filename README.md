@@ -1,5 +1,9 @@
 # 1D-ARC
 
+This repository hosts the 1D-ARC dataset as introduced in the paper: [LLMs and the Abstraction and Reasoning Corpus: Successes, Failures, and the Importance of Object-based Representations.](https://arxiv.org/abs/2305.18354)
+
+See our [project page](https://khalil-research.github.io/LLM4ARC/) for more details.
+
 ## Dataset
 
 | Task name  | 1D-ARC repo dataset     | Visualize                                                                                                 |
