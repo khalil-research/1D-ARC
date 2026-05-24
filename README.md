@@ -22,7 +22,7 @@ See our [project page](https://khalil-research.github.io/LLM4ARC/) for more deta
 | Denoise Multicolor         | dataset/1d_denoising_mc | ![Alt text](ds_visualize/Denoise_Multicolor.png?raw=true "Denoise Multicolor")                 |
 | Pattern Copy               | dataset/1d_pcopy_1c     | ![Alt text](ds_visualize/Pattern_Copy.png?raw=true "Pattern Copy")                             |
 | Pattern Copy Multicolor    | dataset/1d_pcopy_mc     | ![Alt text](ds_visualize/Pattern_Copy_Multicolor.png?raw=true "Pattern Copy Multicolor")       |
-| Recolor by Odd Even        | dataset/1d_recolor_oe   | ![Alt text](ds_visualize/Pattern_Copy_Multicolor.png?raw=true "Pattern Copy Multicolor")       |
+| Recolor by Odd Even        | dataset/1d_recolor_oe   | ![Alt text](ds_visualize/Recolor_by_Odd_Even.png?raw=true "Recolor by Odd Even")               |
 | Recolor by Size            | dataset/1d_recolor_cnt  | ![Alt text](ds_visualize/Recolor_by_Size.png?raw=true "Recolor by Size")                       |
 | Recolor by Size Comparison | dataset/1d_recolor_cmp  | ![Alt text](ds_visualize/Recolor_by_Size_Comparison.png?raw=true "Recolor by Size Comparison") |
 | Scaling                    | dataset/1d_scale_dp     | ![Alt text](ds_visualize/Scaling.png?raw=true "Scaling")
